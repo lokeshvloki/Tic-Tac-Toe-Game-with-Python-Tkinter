@@ -71,7 +71,7 @@ The project colors are inspired by Python’s official logo, blending creativity
 ---
 
 ## 📧 Contact
-👤 **Lokesh V**
-📧 **Email:** lokeshv2403@gmail.com
-📂 **LinkedIn:** [lokeshV](https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 👤 **Lokesh V**
+- 📧 **Email:** lokeshv2403@gmail.com
+- 📂 **LinkedIn:** [lokeshV](https://www.linkedin.com/in/lokesh-v-13873a284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
