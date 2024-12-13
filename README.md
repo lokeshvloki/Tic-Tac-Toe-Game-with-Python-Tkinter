@@ -26,6 +26,8 @@ An interactive and visually appealing Tic Tac Toe game built using Python and Tk
 4. Winner Detection
 ![Winner Detection](winner.png)
 
+---
+
 
 ## Techonlogy Used
 * Python 🐍
