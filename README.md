@@ -16,10 +16,10 @@ An interactive and visually appealing Tic Tac Toe game built using Python and Tk
 
 ## 🎥 Demo
 👀 **Check out how it works!**
-1. ![Empty Grid](empty.jpeg)
-2. ![Tie Condition](tie.jpeg)
-3. ![Restart Option](restart.jpeg)
-4. ![Winner Detection](winner.jpeg)
+1. ![Empty Grid](empty.png)
+2. ![Tie Condition](tie.png)
+3. ![Restart Option](restart.png)
+4. ![Winner Detection](winner.png)
 
 
 ## Techonlogy Used
