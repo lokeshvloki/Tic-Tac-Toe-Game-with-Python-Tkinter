@@ -46,9 +46,8 @@ python tic_tac_toe.py
 ## 📂 Project Structure
 ```bash
 dynamic-tic-tac-toe/
-├── tic_tac_toe.py     # Main game script
-├── README.md          # Project documentation
-└── your-demo-image.gif # Optional demo media (if available)
+├── tic_tac_toe.py     # Main game script 
+└── README.md          # Project documentation
 ```
 
 ---
